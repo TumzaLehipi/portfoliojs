@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/styled-comp-reactjs-portfolio/static/css/main.69eda509.chunk.css",
+    "main.js": "/styled-comp-reactjs-portfolio/static/js/main.6be7eb85.chunk.js",
+    "main.js.map": "/styled-comp-reactjs-portfolio/static/js/main.6be7eb85.chunk.js.map",
+    "runtime-main.js": "/styled-comp-reactjs-portfolio/static/js/runtime-main.29a04918.js",
+    "runtime-main.js.map": "/styled-comp-reactjs-portfolio/static/js/runtime-main.29a04918.js.map",
+    "static/js/2.e0710b07.chunk.js": "/styled-comp-reactjs-portfolio/static/js/2.e0710b07.chunk.js",
+    "static/js/2.e0710b07.chunk.js.map": "/styled-comp-reactjs-portfolio/static/js/2.e0710b07.chunk.js.map",
+    "index.html": "/styled-comp-reactjs-portfolio/index.html",
+    "precache-manifest.0c0bd036c5f6d3fb27d1b76c73b4314a.js": "/styled-comp-reactjs-portfolio/precache-manifest.0c0bd036c5f6d3fb27d1b76c73b4314a.js",
+    "service-worker.js": "/styled-comp-reactjs-portfolio/service-worker.js",
+    "static/css/main.69eda509.chunk.css.map": "/styled-comp-reactjs-portfolio/static/css/main.69eda509.chunk.css.map",
+    "static/js/2.e0710b07.chunk.js.LICENSE.txt": "/styled-comp-reactjs-portfolio/static/js/2.e0710b07.chunk.js.LICENSE.txt",
+    "static/media/about.9e9988a6.svg": "/styled-comp-reactjs-portfolio/static/media/about.9e9988a6.svg",
+    "static/media/contact.cd6f09b9.svg": "/styled-comp-reactjs-portfolio/static/media/contact.cd6f09b9.svg",
+    "static/media/facebook.11a706e8.svg": "/styled-comp-reactjs-portfolio/static/media/facebook.11a706e8.svg",
+    "static/media/github.6ed3db48.svg": "/styled-comp-reactjs-portfolio/static/media/github.6ed3db48.svg",
+    "static/media/home.a273e999.svg": "/styled-comp-reactjs-portfolio/static/media/home.a273e999.svg",
+    "static/media/instagram.201afcb0.svg": "/styled-comp-reactjs-portfolio/static/media/instagram.201afcb0.svg",
+    "static/media/linkedin.083538a6.svg": "/styled-comp-reactjs-portfolio/static/media/linkedin.083538a6.svg",
+    "static/media/profilepic.jpg": "/styled-comp-reactjs-portfolio/static/media/profilepic.3dbc4fe5.jpg",
+    "static/media/skills.48771fda.svg": "/styled-comp-reactjs-portfolio/static/media/skills.48771fda.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.29a04918.js",
+    "static/js/2.e0710b07.chunk.js",
+    "static/css/main.69eda509.chunk.css",
+    "static/js/main.6be7eb85.chunk.js"
+  ]
+}
